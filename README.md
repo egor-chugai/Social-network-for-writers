@@ -1,6 +1,6 @@
-# Social-network-of-writers
+# Social-network-for-writers
 ### Description
-A site where you can create your own page. Users will be able to visit other people's pages, subscribe to authors and comment on their posts. The author can choose a name and a unique address for his page. Entries can be sent to the community and see the entries of different authors there.
+A website where you can create your own page. Users will be able to visit other people's pages, subscribe to authors and comment on their posts. An author can choose a name and a unique address for his page. Entries can be sent to the community, where they can be seen by other authors.
 ### Technologies
 - Python 3.9
 - Django 2.2.19
